@@ -11,7 +11,7 @@ Trabajo hecho por una sola persona: David Sun
 ## Ficheros
 
 * **src/scraping_pccomponentes.py**: contiene el programa para llevar a cabo el scraping en python.
-* **src/targetas_graficas.htm**: es el archivo plano que se trabaja, obtenido desde la página: [Targetas gráficas] (https://www.pccomponentes.com/tarjetas-graficas).
+* **src/targetas_graficas.htm**: es el archivo plano que se trabaja, obtenido desde la página: [Targetas gráficas](https://www.pccomponentes.com/tarjetas-graficas).
 * **src/grafica.csv**: contiene el archivo csv creado por scraping_pccomponentes.py.
 * **pdf/PRAC1_explicación.pdf**: es el archivo pdf que responde a las preguntas y contiene enlaces al vídeo explicativo y al DOI del csv en Zenodo
 
