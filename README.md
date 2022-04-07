@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Práctica de la asignatura Tipología y ciclo de vida de los datos del máster universitario Ciencia de datos de la UOC (Universitat Oberta de Catalunya) donde se indaga en el tema del scraping, se extrae un csv mediante python y BeautifulSoap.
+Práctica de la asignatura Tipología y ciclo de vida de los datos del máster universitario Ciencia de datos de la UOC (Universitat Oberta de Catalunya) donde se indaga en el tema del scraping, el proyecto consiste en extraer un csv de una página web de interés mediante python y BeautifulSoap.
 
 ## Miembros del equipo
 
