@@ -9,7 +9,7 @@ El proyecto consiste en extraer un csv de una página web de interés mediante p
 * **src/scraping_pccomponentes.py**: contiene el programa para llevar a cabo el scraping en python.
 * **src/targetas_graficas.htm**: es el archivo plano que se trabaja, obtenido desde la página: [Targetas gráficas](https://www.pccomponentes.com/tarjetas-graficas).
 * **src/grafica.csv**: contiene el archivo csv creado por scraping_pccomponentes.py.
-* **pdf/PRAC1_explicación.pdf**: es el archivo pdf que responde a las preguntas y contiene enlaces al vídeo explicativo y al DOI del csv en Zenodo
+* **pdf/explicación.pdf**: archivo pdf explicatorio y contiene enlace al DOI del csv en Zenodo
 
 ## Recursos
 1. https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03
